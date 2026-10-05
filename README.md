@@ -36,7 +36,7 @@ Business Problem Solver | Digital Solution Designer & Builder
 
 ## Translation Status
 
-🚧 Translation workflow and project foundation are being prepared.
+🚧 Translation is about to begin. Project guidelines, terminology workflow, licensing, and contribution process are in place.
 
 ---
 
