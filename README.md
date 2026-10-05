@@ -6,7 +6,7 @@ This project aims to make professional development knowledge more accessible to 
 
 ---
 
-## About The Project
+## About the Project
 
 In today's technology industry, technical skills alone are not enough. Professional communication, teamwork, problem-solving, leadership, ethics, and continuous development are essential skills for successful IT professionals.
 
@@ -55,24 +55,27 @@ Griffith University
 © 2025 Griffith University
 
 **License:**  
-Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0), except where otherwise noted.
 
-Original source:
-
-https://griffithuniversity.pressbooks.pub/beyond-coding-soft-skills/
+**Original source:**  
+[Beyond Coding — Griffith University](https://griffithuniversity.pressbooks.pub/beyond-coding-soft-skills/)
 
 ---
 
 ## Translation Approach
 
-This project follows a human translation process supported by AI-assisted tools for research, terminology consistency, and review.
+This project follows a **human-led translation process supported by AI-assisted tools** for research, terminology consistency, and review.
 
 Translation principles:
 
 - Focus on conveying the original concepts accurately.
-- Maintain consistency through a project glossary.
+- Preserve the author's meaning, intent, and tone while using natural Persian.
+- Maintain terminology consistency through the project glossary.
 - Preserve important technical terms and introduce appropriate Persian equivalents.
-- Prioritize readability and natural Persian language over literal translation.
+- Prioritize readability and natural Persian expression over mechanical literal translation.
+- Clearly distinguish translator notes from the author's original content.
+
+The complete translation principles and editorial workflow are documented in [`TRANSLATION_GUIDE.md`](TRANSLATION_GUIDE.md).
 
 ---
 
@@ -80,46 +83,58 @@ Translation principles:
 
 A project glossary is maintained to ensure consistency in translating professional and technical terminology.
 
+The glossary serves as the authoritative terminology reference for the project and evolves as the translation progresses.
+
+See [`GLOSSARY.md`](GLOSSARY.md).
+
 ---
 
 ## Contribution
 
-Feedback and suggestions are welcome.
+Feedback, corrections, and translation suggestions are welcome.
 
-To maintain translation consistency and quality, the translation process is currently managed by the project maintainer.
+To maintain translation consistency and quality, translation decisions are currently managed and editorially reviewed by the project maintainer.
+
+Contributors and reviewers are encouraged to follow the principles defined in [`TRANSLATION_GUIDE.md`](TRANSLATION_GUIDE.md) and consult [`GLOSSARY.md`](GLOSSARY.md) before proposing terminology changes.
 
 ---
 
-## Permission Status
+## Author Communication
 
-This project is being prepared under the terms of the **CC BY-NC 4.0** license.
+The translation is being developed under the terms of the **CC BY-NC 4.0** license applicable to the original work.
 
-The translator is also planning to contact the author to introduce the project and establish professional communication regarding this translation initiative.
+The translator also intends to contact the author to introduce the Persian translation project and establish professional communication regarding the initiative.
+
+This communication is intended to inform and engage with the author and does not imply that the project is officially endorsed by the author or Griffith University.
 
 ---
 
 ## Original Work Attribution
 
-This project is a Persian translation of:
+This project is a Persian translation and adaptation of:
 
 **Beyond Coding**  
 David Tuffley  
-Griffith University
+Griffith University  
+© 2025 Griffith University
 
-The original work is licensed under:
-
-Creative Commons Attribution-NonCommercial 4.0 International License.
+The original work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**, except where otherwise noted.
 
 This Persian translation is an unofficial adaptation of the original work.
+
+No endorsement by David Tuffley or Griffith University is implied.
 
 ---
 
 ## License
 
-This translation project follows the requirements of the original work's:
+The original work, **Beyond Coding**, is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**, except where otherwise noted.
 
-**Creative Commons Attribution-NonCommercial 4.0 International License**
+Unless otherwise noted, the original Persian translation contributions in this repository are also made available under the **CC BY-NC 4.0** license.
 
-For more information:
+Third-party material excluded from the Creative Commons license of the original work is not automatically covered by the license for this translation.
 
-https://creativecommons.org/licenses/by-nc/4.0/
+For complete project licensing, attribution, and third-party material information, see the [`LICENSE`](LICENSE) file.
+
+Creative Commons license information:  
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
