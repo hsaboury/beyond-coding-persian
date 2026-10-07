@@ -101,11 +101,25 @@ Contributors and reviewers are encouraged to follow the principles defined in [`
 
 ## Author Communication
 
-The translation is being developed under the terms of the **CC BY-NC 4.0** license applicable to the original work.
+### About the Author
 
-The translator also intends to contact the author to introduce the Persian translation project and establish professional communication regarding the initiative.
+**Dr. David Tuffley**  
+Adjunct Senior Lecturer  
+Senior Fellow, Higher Education Academy  
+School of Information & Communication Technology  
+Griffith University, Australia
 
-This communication is intended to inform and engage with the author and does not imply that the project is officially endorsed by the author or Griffith University.
+**Professional Profiles:**
+- [LinkedIn](https://www.linkedin.com/in/davidtuffley/)
+- [Articles on The Conversation](https://theconversation.com/profiles/david-tuffley-13731/articles)
+
+### Communication with the Author
+
+Dr. David Tuffley has been informed of this Persian translation project and has kindly expressed his appreciation for the initiative.
+
+He has also reviewed the project's GitHub repository and offered to clarify any ambiguities in the original text that may arise during the translation process.
+
+**Editorial Independence:** This communication does not constitute a formal review, approval, or endorsement of the Persian translation. The project remains an independent, unofficial translation initiative.
 
 ---
 
